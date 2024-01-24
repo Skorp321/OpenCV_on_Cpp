@@ -1,0 +1,3 @@
+﻿  chapter4.cpp
+C:\Users\Потапов\source\repos\OpenCVCource\OpenCVCource\chapter4.cpp(6,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  OpenCVCource.vcxproj -> C:\Users\Потапов\source\repos\OpenCVCource\x64\Debug\OpenCVCource.exe
